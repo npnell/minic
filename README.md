@@ -1,1 +1,1 @@
-# democ
+# minic
